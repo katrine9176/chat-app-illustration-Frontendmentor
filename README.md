@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution URL](https://github.com/katrine9176/chat-app-illustration-Frontendmentor)
-- Live Site URL: [Live](https://your-live-site-url.com)
+- Live Site URL: [Live](https://katrine9176.github.io/chat-app-illustration-Frontendmentor/)
 
 ## My process
 
